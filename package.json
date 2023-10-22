@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "nodemon app.js",
-    "install": "npm i nodemon, mongodb, express"
+    "install": "npm i express@^4.17.1 mongodb@^3.6.10 nodemon@^2.0.14"
   },
   "author": "Tu Nombre",
   "license": "MIT",
