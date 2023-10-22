@@ -1,0 +1,19 @@
+{
+  "name": "mi_proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto de Node.js con MongoDB",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "keywords": []
+}
